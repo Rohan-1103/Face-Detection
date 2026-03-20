@@ -1,0 +1,15 @@
+python -m pip install --upgrade pip
+
+pip install whell setuptools
+
+pip install numpy
+
+pip install opencv-python
+
+pip install cmake
+
+pip install dlib-bin
+
+pip install face_recognition --prefer-binary
+
+ winget install python.python.3.9
